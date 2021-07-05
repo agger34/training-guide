@@ -11,6 +11,7 @@ in 2-3 days, you must get technical knowledge and skills as below:
 ## 2. Reference
 
 - Reference:
+  - https://nvie.com/posts/a-successful-git-branching-model/
   - http://git-scm.com/book/en/v2(the first 4 chapters)
   - https://backlog.com/git-tutorial/vn/intro/intro1_1.html
 - Common Git Commands: https://github.com/joshnh/Git-Commands
