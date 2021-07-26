@@ -22,3 +22,4 @@ in 7 days, you must get technical knowledge and skills as below:
  ## 2 . Reference
  - [Angular Style Guide](https://github.com/johnpapa/angular-styleguide)
  - [Angular 8 Quick Guide](https://www.tutorialspoint.com/angular8/angular8_quick_guide.htm)
+ c
